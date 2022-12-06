@@ -22,8 +22,6 @@ html {
       h5 {
         margin: 3rem 0 1.38rem;
         font-weight: 900;
-        text-transform: lowercase;
-        font-variant: small-caps;
         line-height: 1.3;
       }
 
